@@ -1,0 +1,13 @@
+*{
+    text-transform: uppercase;
+    text-align: center;
+    background-color: aqua;
+    color:blue;
+}
+p{
+    text-transform: uppercase;
+    text-align: center;
+    background-color:yellowgreen;
+    color:blue;
+}
+
